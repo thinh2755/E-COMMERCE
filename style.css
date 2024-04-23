@@ -23,6 +23,9 @@ body {
 header {
     height: 60px;
 }
+header.index1 {
+    height: 60px;
+}
 
 .navbar {
     height: 100%;
